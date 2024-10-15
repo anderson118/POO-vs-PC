@@ -1,0 +1,6 @@
+Aula 33; Exercício 5
+
+
+POO ou Programação Orientado a Objeto é um codigo mais limpo para se fazer a leitura e mais utilizado nas aplicações modernas, onde existe varias classes com funções especificas.
+
+PC ou Programação Procedural é um codigo onde se tem somente uma classe com todos os metodos, assim ficando um codiigo extenso, e tendo que processar tudo em uma unica classe, além de ficar ruim fara fazer uma leitura e uma analise.
